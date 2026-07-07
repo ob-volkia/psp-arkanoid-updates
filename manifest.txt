@@ -1,0 +1,6 @@
+version=134
+size=1876931
+sha256=3d1cc427fd601e8a9d9e1eac47e9efd2a7e5a35e060fbd077b5df6742f88eef7
+title=Volkanoid build 134
+notes=Volkanoid build 134
+changelog=Updated Volkanoid game build|Improved online updater UI|Added diagnostics and safer release packaging
